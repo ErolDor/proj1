@@ -1739,11 +1739,8 @@ img.logo2{
     margin-left: 1%;
 
   }
-  .rmd_div{
-    margin-top: 40%;
-  }
   #intro{
-    min-height: 1100px;
+    min-height: 1000px;
   }
 
 }
