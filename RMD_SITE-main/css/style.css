@@ -1742,5 +1742,8 @@ img.logo2{
   .rmd_div{
     margin-top: 40%;
   }
+  #intro{
+    min-height: 1100px;
+  }
 
 }
